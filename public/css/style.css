@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.nav{
+	display: flex;
+	background-color: #000;
+}
+
+.nav > div{
+	padding: 10px;
+}
+
+.nav > div:hover{
+	background-color: #757575;
+}
+
+.nav > div > a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.content{
+	padding: 10px;
+}
+
+.content-image{
+	display: flex;
+	justify-content: space-around;
+}
+
+.content-image > img{
+	width: 400px;
+	height: 200px;
+}
+
+.footer{
+	background-color: #000;
+	color: #fff;
+	padding: 10px;
+	text-align: center;	
+}
