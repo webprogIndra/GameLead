@@ -73,7 +73,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 							<li><a href="#services" class="scroll">Learn</span></a></li>
 							<li><a href="#work" class="scroll">Tournament</span></a></li>
 							<li><a href="#projects" class="scroll">Find Team</span></a></li>
-							<li><a href="#mail" class="scroll">Login</span></a></li>
+							<li><a href="/Login" class="scroll">Login</span></a></li>
 						</ul>
 					</nav>
 				</div>
