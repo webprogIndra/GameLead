@@ -32,4 +32,5 @@ Route::get('/home', function(){
 //});
 
 Route::get('/home','MyController@showHome') ->name('showHome');
+Route::get('/login','MyController@index');
 Route::get('/product','MyController@showProduct')->name('showProduct');
