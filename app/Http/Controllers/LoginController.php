@@ -10,10 +10,14 @@ class RegisterController extends Controller
     
 {
     
+    
     use RegistersUsers;
    
     protected $redirectTo = '/home';
    
+    public function index(){
+        return view('login');
+    }
     public function __construct()
     {
         $this->middleware('guest');
