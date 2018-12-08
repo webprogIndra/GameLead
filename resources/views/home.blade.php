@@ -1,4 +1,3 @@
-
 <!--
 author: W3layouts
 author URL: http://w3layouts.com
@@ -70,11 +69,11 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						<ul class="nav navbar-nav">
 							<li class="active"><a href="index.html"><span data-hover="Home">Home</span></a></li>
 
-							<li><a href="#about" class="scroll"><span data-hover="About">About</span></a></li>
-							<li><a href="#services" class="scroll"><span data-hover="Services">Services</span></a></li>
-							<li><a href="#work" class="scroll"><span data-hover="Gallery">Gallery</span></a></li>
-							<li><a href="#projects" class="scroll"><span data-hover="News">News</span></a></li>
-							<li><a href="#mail" class="scroll"><span data-hover="Contact">Contact</span></a></li>
+							<li><a href="#about" class="scroll">About</span></a></li>
+							<li><a href="#services" class="scroll">Learn</span></a></li>
+							<li><a href="#work" class="scroll">Tournament</span></a></li>
+							<li><a href="#projects" class="scroll">Find Team</span></a></li>
+							<li><a href="#mail" class="scroll">Login</span></a></li>
 						</ul>
 					</nav>
 				</div>
@@ -104,9 +103,8 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 							<img src="images/dota.jpg" class="img-responsive" alt="Fantasy World">
 						</div>
 						<div class="slider-info">
-						 
-							<h4>DOTA 2</h4>
-							   <p>World building is component of fantasy </p>
+							<h4>Learn</h4>
+							   <p>Up Your skill</p>
 					<a href="#about" class="hvr-shutter-in-horizontal scroll">Read More</a>
 						</div>
 					</li>
@@ -116,8 +114,8 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						</div>
 						<div class="slider-info">
 							
-							<h4>COUNTER STRIKE GLOBAL OFFENSIVE</h4>
-						   <p>World building is component of fantasy </p>
+							<h4>Learn</h4>
+						   <p>Be a Champion</p>
 						<a href="#about" class="hvr-shutter-in-horizontal scroll">Read More</a>
 						</div>
 					</li>
@@ -127,38 +125,11 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						</div>
 						<div class="slider-info">
 							
-							<h4>ARENA OF VALOR</h4>
-						   <p>World building is component of fantasy </p>
+							<h4>Find Team</h4>
+						   <p>Be a professional Esport</p>
 						<a href="#about" class="hvr-shutter-in-horizontal scroll">Read More</a>
 						</div>
 					</li>
-					<li>
-						<div class="slider-img">
-							<img src="images/PUBG.jpg" class="img-responsive" alt="Fantasy World">
-						</div>
-						<div class="slider-info">
-							
-							<h4>PLAYERUNKNOWN'S BATTLEGROUNDS</h4>
-						   <p>World building is component of fantasy </p>
-						<a href="#about" class="hvr-shutter-in-horizontal scroll">Read More</a>
-						</div>
-					</li>
-					<li>
-						<div class="slider-img">
-							<img src="images/Fortnite.jpg" class="img-responsive" alt="Fantasy World">
-						</div>
-						<div class="slider-info">
-							
-							<h4>Fortnite</h4>
-						   <p>World building is component of fantasy </p>
-						<a href="#about" class="hvr-shutter-in-horizontal scroll">Read More</a>
-						</div>
-					</li>
-
-
-
-
-
 				</ul>
 				
 			</div>
@@ -167,22 +138,6 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 		<!--//Slider-->
 	</div>
 <!-- //banner -->
-<!-- Modal1 -->
-						<div class="modal fade" id="myModal1" role="dialog">
-							<div class="modal-dialog">
-							<!-- Modal content-->
-								<div class="modal-content">
-									<div class="modal-header">
-										<button type="button" class="close" data-dismiss="modal">&times;</button>
-										<h4>Contracts</h4>
-										<img src="images/ab.jpg" alt=" " class="img-responsive">
-										<h5>Donec lobortis pharetra dolor</h5>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, rds which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- //Modal1 -->
 
 <!-- about -->
 	<div class="about" id="about">
@@ -218,30 +173,30 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 				<a href="#" class="hi-icon"><img src="images/s1.png" alt=" " /></a>
 			</div>
-			<h4>Service 1</h4>
-			<p>Lorem Ipsum</p>
+			<h4>Service</h4>
+			<p>Information</p>
 		</div>
 
        <div class="col-md-3 services-gd text-center">
 			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 				<a href="#" class="hi-icon"><img src="images/s2.png" alt=" " /></a>
 			</div>
-			<h4>Service 2</h4>
-			<p>Lorem Ipsum</p>
+			<h4>Learn</h4>
+			<p>Up Your skill</p>
 		</div>
 		<div class="col-md-3 services-gd text-center">
 			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 				<a href="#" class="hi-icon"><img src="images/s3.png" alt=" " /></a>
 			</div>
-			<h4>Service 3</h4>
-			<p>Lorem Ipsum</p>
+			<h4>Tournament</h4>
+			<p>Be a Champion</p>
 		</div>
 		<div class="col-md-3 services-gd text-center">
 			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 				<a href="#" class="hi-icon"><img src="images/s4.png" alt=" " /></a>
 			</div>
-			<h4>Service 4</h4>
-			<p>Lorem Ipsum</p>
+			<h4>Find Team</h4>
+			<p>Be a professional Esport</p>
 		</div>
 		<div class="clearfix"> </div>
 	</div>
@@ -252,7 +207,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 	<div class="team-bottom" id="work">
 		<div class="container">
 			<h3 class="w3l_head w3l_head1">Latest Gallery</h3>
-			<p class="w3ls_head_para w3ls_head_para1">Lorem Ipsum Dolor</p>
+			<p class="w3ls_head_para w3ls_head_para1">cool images is here</p>
 			<div class="w3layouts_gallery_grids">
 				<ul class="w3l_gallery_grid" id="lightGallery">
 					<li data-title="Games" data-desc="Lorem Ipsum is simply dummy text of the printing." data-src="images/ab.jpg" data-responsive-src="images/8.jpg"> 
@@ -493,14 +448,6 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 		</div>
 	</div>
 	
-<!-- //mail -->
-<div class="map">
-	<div class="container">
-		<h3 class="w3l_head w3l_head1">Locate Us</h3>
-		<p class="w3ls_head_para w3ls_head_para1">How to find us</p>
-	</div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57537.641430789925!2d-74.03215321337959!3d40.719122105634035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1456152197129" allowfullscreen=""></iframe>
-
 </div>
 <!-- footer -->
 	<div class="w3l_footer">
@@ -515,7 +462,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						</div>
 						<div class="w3ls_footer_grid_leftr">
 							<h4>Location</h4>
-							<p>3030 New York, NY, USA</p>
+							<p>Jakarta, Indonesia</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -525,7 +472,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						</div>
 						<div class="w3ls_footer_grid_leftr">
 							<h4>Email</h4>
-							<a href="mailto:info@example.com">info@example.com</a>
+							<a href="mailto:info@example.com">gamelead_id@gmail.com</a>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -535,7 +482,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						</div>
 						<div class="w3ls_footer_grid_leftr">
 							<h4>Call Us</h4>
-							<p>(+000) 003 003 0052</p>
+							<p>(+62) 251 78841125</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -594,7 +541,6 @@ $(document).ready(function() {
 		autoPlay: 3000, //Set AutoPlay to 3 seconds
 		  autoPlay : true,
 		   navigation :true,
-
 		items : 4,
 		itemsDesktop : [640,5],
 		itemsDesktopSmall : [414,4]
